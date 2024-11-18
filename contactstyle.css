@@ -1,0 +1,40 @@
+.contact-container {
+    width: 50%; 
+    height: 75px;
+    max-height: 300px;
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: float;
+    background-color: #f9f9f9;
+    padding: 15px;
+    padding-bottom: 335px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px; 
+}
+
+
+header {
+    text-align: center;
+    background-color: #20bcff;
+    padding: 10px;
+    font-size: 16px;
+    width: 98.5%;
+}
+  
+header nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color: #20bcff;
+    padding: 10px;
+    font-size: 14px;
+    bottom: 0;
+    width: 97.5%;
+    position: fixed; 
+}
